@@ -9,9 +9,9 @@
   - Semantics
   - Abstraction
   - Paradigm
-  - Programm
+  - Programm h
   - Programming paradigm
-  - Programming language
+  - Programming language h
   - Contract
   - Module
   - Library
@@ -19,9 +19,9 @@
   - Component
   - Framework
   - Platform
-  - Source code
+  - Source code h
   - Object code
-  - Machine code
+  - Machine code h
   - Microcode
   - Software engineering
   - Decomposition
@@ -213,12 +213,12 @@
   - Kernel
   - Ring
   - Virtual memory
-  - File system
+  - File system u
   - Linux
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS k
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 h
   - W3C
   - ODMG
