@@ -1,24 +1,24 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming h
-  - Imperative programming h
-  - Structured programming h
+  - Procedural programming: 👂 heard
+  - Imperative programming: 👂 heard
+  - Structured programming: 👂 heard
   - Non-structured programming
-  - Functional programming u
+  - Functional programming: 🖐️ used
   - Prototype-based programming
-  - Object-oriented programming h
+  - Object-oriented programming: 👂 heard
   - Object-based programming
-  - Generic programming u
+  - Generic programming: 🖐️ used
   - Concurrent computing
-  - Asynchronous programming h
+  - Asynchronous programming: 👂 heard
   - Parallel programming
-  - Reactive programming h
+  - Reactive programming: 👂 heard
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
   - Multi-paradigm programming
-  - Metaprogramming h
+  - Metaprogramming: 👂 heard
   - Actor model
   - Lambda calculus
   - Black box
@@ -27,25 +27,25 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor u
-  - Operator `new` u
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
   - Static method
   - Method
   - Async method
-  - Getters, Setters h
-  - Public fields h
-  - Private fields h
+  - Getters, Setters: 👂 heard
+  - Public fields: 👂 heard
+  - Private fields: 👂 heard
   - Field declarations
   - Inheritance
-  - Parent class h
-  - Polymorphism h
+  - Parent class: 👂 heard
+  - Polymorphism: 👂 heard
   - Abstract class
-  - Interface h
-  - Encapsulation h
+  - Interface: 👂 heard
+  - Encapsulation: 👂 heard
   - Hidden class
   - Object form
   - Instance
-  - Introspection h
+  - Introspection: 👂 heard
   - Reflection
   - The diamond problem
 - GRASP
@@ -64,7 +64,7 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton h
+  - Singleton: 👂 heard
   - Factory Method
   - Abstract Factory
   - Adapter
@@ -74,13 +74,13 @@
   - Proxy
   - Chain of Responsibility
   - Command
-  - Iterator h
+  - Iterator: 👂 heard
   - State
   - Bridge
   - Builder
-  - Prototype u
+  - Prototype: 🖐️ used
   - Composite
-  - Decorator h
+  - Decorator: 👂 heard
   - Flyweight
   - Mediator
   - Memento
