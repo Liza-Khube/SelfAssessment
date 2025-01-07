@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
+  - Event loop h
+  - `try..catch` u
   - Non-blocking
-  - Async I/O
+  - Async I/O u
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -22,17 +22,17 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks k
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise u
+  - Async/await u
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event h
   - Coroutine
   - Goroutine
   - Signal
@@ -47,7 +47,7 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter h
   - Observable/Observer
   - Readable
   - Writable
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers u
   - `setImmediate`
   - `nextTick`
   - AbortController

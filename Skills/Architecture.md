@@ -1,7 +1,7 @@
 ## Architecture
 
 - Application structure
-  - Modularity
+  - Modularity h
   - Components
   - Directories
   - GRASP
@@ -18,10 +18,10 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability h
+  - Quality h
+  - Availability  h
+  - Flexibility h
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
@@ -30,7 +30,7 @@
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming h
   - Inversion of control (IoC)
   - Dependency injection (DI)
   - Clean architecture
@@ -64,7 +64,7 @@
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design
+  - System design h
   - Process modelling
   - Data modelling
   - Solution components

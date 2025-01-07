@@ -1,14 +1,14 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types u
   - Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery
   - Database scalability
-  - Relational databases
-  - Key-value store
+  - Relational databases h
+  - Key-value store k
   - Tuple store
   - Graph databases
   - Object databases
@@ -31,37 +31,37 @@
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions h
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
+  - `SELECT` h
   - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `UPDATE` h
+  - `DELETE` h
   - `LIMIT`
   - `OFFSET`
   - `ORDER BY`
-  - `GROUP BY`
+  - `GROUP BY`h
   - `HAVING`
-  - `EXISTS`
-  - `JOIN`
-  - `INNER JOIN`
+  - `EXISTS` h
+  - `JOIN` h
+  - `INNER JOIN` h
   - `LEFT JOIN`
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
   - `WHERE`
   - `LIKE`
-  - `IN`
+  - `IN` h
   - `BETWEEN`
-  - `CREATE TABLE`
+  - `CREATE TABLE` h
   - `ALTER TABLE`
   - `DROP TABLE`
   - `PRIMARY KEY`
   - `FOREIGN KEY`
-  - `CHECK`
+  - `CHECK` h
   - `DEFAULT`
   - `INDEX`
   - `UNIQUE`
@@ -88,7 +88,7 @@
   - Data warehousing
   - Business intelligence
   - Big data
-  - Data analysis
+  - Data analysis h
   - AI tools
   - Cloud databases
   - Data Visualization
