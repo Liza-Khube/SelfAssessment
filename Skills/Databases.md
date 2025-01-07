@@ -1,14 +1,14 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types: 🖐️ used
   - Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery
   - Database scalability
-  - Relational databases
-  - Key-value store
+  - Relational databases: 👂 heard
+  - Key-value store: 🎓 known
   - Tuple store
   - Graph databases
   - Object databases
@@ -31,37 +31,37 @@
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions: 👂 heard
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
+  - `SELECT`: 👂 heard
   - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `UPDATE`: 👂 heard
+  - `DELETE`: 👂 heard
   - `LIMIT`
   - `OFFSET`
   - `ORDER BY`
-  - `GROUP BY`
+  - `GROUP BY`h
   - `HAVING`
-  - `EXISTS`
-  - `JOIN`
-  - `INNER JOIN`
+  - `EXISTS`: 👂 heard
+  - `JOIN`: 👂 heard
+  - `INNER JOIN`: 👂 heard
   - `LEFT JOIN`
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
   - `WHERE`
   - `LIKE`
-  - `IN`
+  - `IN`: 👂 heard
   - `BETWEEN`
-  - `CREATE TABLE`
+  - `CREATE TABLE`: 👂 heard
   - `ALTER TABLE`
   - `DROP TABLE`
   - `PRIMARY KEY`
   - `FOREIGN KEY`
-  - `CHECK`
+  - `CHECK`: 👂 heard
   - `DEFAULT`
   - `INDEX`
   - `UNIQUE`
@@ -88,7 +88,7 @@
   - Data warehousing
   - Business intelligence
   - Big data
-  - Data analysis
+  - Data analysis: 👂 heard
   - AI tools
   - Cloud databases
   - Data Visualization

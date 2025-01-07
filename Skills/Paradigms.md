@@ -1,24 +1,24 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
+  - Procedural programming: 👂 heard
+  - Imperative programming: 👂 heard
+  - Structured programming: 👂 heard
   - Non-structured programming
-  - Functional programming
+  - Functional programming: 🖐️ used
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming: 👂 heard
   - Object-based programming
-  - Generic programming
+  - Generic programming: 🖐️ used
   - Concurrent computing
-  - Asynchronous programming
+  - Asynchronous programming: 👂 heard
   - Parallel programming
-  - Reactive programming
+  - Reactive programming: 👂 heard
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
   - Multi-paradigm programming
-  - Metaprogramming
+  - Metaprogramming: 👂 heard
   - Actor model
   - Lambda calculus
   - Black box
@@ -27,25 +27,25 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
   - Static method
   - Method
   - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
+  - Getters, Setters: 👂 heard
+  - Public fields: 👂 heard
+  - Private fields: 👂 heard
   - Field declarations
   - Inheritance
-  - Parent class
-  - Polymorphism
+  - Parent class: 👂 heard
+  - Polymorphism: 👂 heard
   - Abstract class
-  - Interface
-  - Encapsulation
+  - Interface: 👂 heard
+  - Encapsulation: 👂 heard
   - Hidden class
   - Object form
   - Instance
-  - Introspection
+  - Introspection: 👂 heard
   - Reflection
   - The diamond problem
 - GRASP
@@ -64,7 +64,7 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
+  - Singleton: 👂 heard
   - Factory Method
   - Abstract Factory
   - Adapter
@@ -74,13 +74,13 @@
   - Proxy
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator: 👂 heard
   - State
   - Bridge
   - Builder
-  - Prototype
+  - Prototype: 🖐️ used
   - Composite
-  - Decorator
+  - Decorator: 👂 heard
   - Flyweight
   - Mediator
   - Memento
